@@ -11,9 +11,9 @@
 
 ;设置规则标志位
 ruleset=💿 PikPak,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PikPak/PikPak.list
-ruleset=💿 PikPak,https://raw.githubusercontent.com/Earsum/ClashCustomRule/main/rule/My_Pikpak.list
-ruleset=📚️ Ehentai,https://raw.githubusercontent.com/Earsum/ClashCustomRule/main/rule/Ehentai.list
-ruleset=🚡 CloudFlare_Tunnel,https://raw.githubusercontent.com/Earsum/ClashCustomRule/main/rule/Cloudflare_Tunnel.list
+ruleset=💿 PikPak,https://raw.githubusercontent.com/EarSum/ClashCustomRule/refs/heads/My_Pikpak.list
+ruleset=📚️ Ehentai,https://raw.githubusercontent.com/EarSum/ClashCustomRule/refs/heads/Ehentai.list
+ruleset=🚡 CloudFlare_Tunnel,https://raw.githubusercontent.com/EarSum/ClashCustomRule/refs/heads/Cloudflare_Tunnel.list
 ruleset=📲 Telegram,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
 ruleset=🎮 Steam,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Steam/Steam.list
 ruleset=🎮 游戏平台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Epic.list
@@ -24,7 +24,7 @@ ruleset=🎵 TikTok,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Cla
 ruleset=🔍 Google,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.list
 ruleset=📹 YouTube,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.list
 ruleset=📹 Niconico,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Niconico/Niconico.list
-ruleset=📹 Niconico,https://raw.githubusercontent.com/Earsum/ClashCustomRule/main/rule/My_Niconico.list
+ruleset=📹 Niconico,https://raw.githubusercontent.com/EarSum/ClashCustomRule/refs/heads/My_Niconico.list
 ruleset=🍑 DMMCOJP,https://raw.githubusercontent.com/Earsum/ClashCustomRule/master/dmmjp.list
 ruleset=📺 巴哈姆特,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bahamut.list
 ruleset=📺 Bilibili,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bilibili.list
@@ -37,7 +37,7 @@ ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/Earsum/ClashCustomRule/master/direct.list
-ruleset=🎯 全球直连,https://raw.githubusercontent.com/Earsum/ClashCustomRule/main/rule/Custom_Direct.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/EarSum/ClashCustomRule/refs/heads/Custom_Direct.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=📢 谷歌FCM,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleFCM.list
